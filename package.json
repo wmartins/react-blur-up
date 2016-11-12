@@ -9,6 +9,7 @@
   "author": "William Martins <wwwhmartins@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "build:gh-pages": "build-storybook",
     "storybook": "start-storybook -p 9001 -c .storybook",
     "lint": "eslint src test stories"
   },
