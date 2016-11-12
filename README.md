@@ -6,6 +6,12 @@ Component to improve user experience when loading heavy weight images using the
 You can check a running demo [clicking
 here](https://wmartins.github.io/react-blur-up).
 
+And here is an example of its effect:
+
+<div style="text-align: center">
+    <img src="./blur-up.gif" alt="React Blur Up demo" />
+</div>
+
 ## About the Technique
 
 You can read more about in the following articles:
