@@ -73,8 +73,8 @@ storiesOf('<BlurUp />', module).
         <div>
             <div className="fixed-bg z-1">
                 <BlurUp
-                    placeholderURL={london2Placeholder}
-                    url={london2}
+                    placeholderURL={london1Placeholder}
+                    url={london1}
                     aspectRatio="6:4"
                 />
             </div>
