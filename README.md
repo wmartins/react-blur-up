@@ -16,12 +16,12 @@ And here is an example of the effect:
 
 You can read more about in the following articles:
 
-- [https://css-tricks.com/the-blur-up-technique-for-loading-background-images/](CSS
-  Tricks: The “Blur Up” Technique for Loading Background Images)
-- [https://jmperezperez.com/medium-image-progressive-loading-placeholder/](JMPEREZ
-  BLOG: How Medium does progressive image loading)
-- [https://code.facebook.com/posts/991252547593574/the-technology-behind-preview-photos](Facebook
-  Code: The technology behind preview photos)
+- [CSS Tricks: The “Blur Up” Technique for Loading Background
+  Images](https://css-tricks.com/the-blur-up-technique-for-loading-background-images/)
+- [JMPEREZ BLOG: How Medium does progressive image
+  loading](https://jmperezperez.com/medium-image-progressive-loading-placeholder/)
+- [Facebook Code: The technology behind preview
+  photos](https://code.facebook.com/posts/991252547593574/the-technology-behind-preview-photos)
 
 ## Contributing
 
